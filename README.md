@@ -78,8 +78,7 @@ You generally never need to touch a component to update content — everything l
 - **Theme toggle** → Dark mode default; navbar toggle flips `[data-theme="light"]` and persists via `localStorage`.  
 
 **Typography:**
-- **Display type:** Fraunces (headings)  
-- **Label/UI type:** Space Grotesk (nav, buttons, data)  
+- **Display type:** Plus Jakarta Sans (headings)  
 - **Body type:** Inter  
 
 ---
