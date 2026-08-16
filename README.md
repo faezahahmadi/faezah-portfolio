@@ -10,11 +10,8 @@ This portfolio is designed not only as a personal website, but also as a demonst
 
 ## 🛠️ **Tech Stack**
 
-- **Frontend:** Next.js, React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS  
+- Next.js, React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS  
 - **UI & Animation:** Framer Motion, Lucide React, CSS animations, responsive design  
-- **State & Forms:** Zustand, React Hook Form, Zod  
-- **Data Visualization:** Recharts  
-- **Design Tools:** Figma, Adobe Illustrator, Adobe Photoshop  
 - **Development Tools:** Git, GitHub, VS Code, npm  
 - **Deployment:** Vercel  
 
