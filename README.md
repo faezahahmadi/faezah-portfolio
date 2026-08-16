@@ -5,7 +5,7 @@ The portfolio is designed not only as a personal website, but also as a demonstr
 
 🌐 Live Website
 
-"View Live Portfolio" (YOUR_LIVE_WEBSITE_URL)
+"View Live Portfolio" https://faezah-portfolio-1.vercel.app
 ##🛠️ Tech Stack
 
 Frontend
