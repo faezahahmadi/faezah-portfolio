@@ -35,6 +35,7 @@ export const projects: Project[] = [
     tech: ["React", "MUI"],
     live: "https://goal-tracker-1.vercel.app/",
     github: "https://github.com/faezahahmadi/Goal-Tracker-1",
+    featured: true,
   },
   {
     slug: "product-catalog",
@@ -52,7 +53,31 @@ export const projects: Project[] = [
     tech: ["React", "Context API", "Redux Toolkit", "React Query"],
     live: "https://product-catalog-mu-eight.vercel.app",
     github: "https://github.com/faezahahmadi/product-Catalog",
+    featured: true,
   },
+  {
+  slug: "world-explorer",
+  name: "World Explorer",
+  tagline: "Interactive country discovery platform",
+  year: "2025 — 2026",
+  description:
+    "A modern and responsive country explorer that allows users to discover countries around the world using real-time data from the REST Countries API, with dynamic country pages, search, and structured country information.",
+
+  problem:
+    "Finding and exploring country information can involve navigating through scattered sources, making it difficult to quickly compare countries and access detailed information in one place.",
+
+  goal:
+    "Build a fast, intuitive country exploration platform that demonstrates modern Next.js architecture while providing users with an easy way to search, browse, and explore countries.",
+
+  outcome:
+    "A responsive Next.js application featuring API-driven country data, dynamic routing, shared layouts, server and client components, and optimized data fetching with a scalable component-based structure.",
+
+  tech: ["Next.js", "React", "Tailwind CSS", "REST Countries API"],
+
+  live: "https://world-explorer-beryl-beta.vercel.app/",
+  github: "https://github.com/faezahahmadi/World-explorer",
+},
+
   {
     slug: "javascript-fundamentals",
     name: "JavaScript Fundamentals",

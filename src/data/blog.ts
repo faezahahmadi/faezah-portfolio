@@ -9,7 +9,7 @@ export const blogPosts: BlogPost[] = [
     title: "Notes on building KaarYab Afghanistan",
     excerpt:
       "Some early thoughts on structuring a Next.js opportunity-finder platform — data modeling, component structure, and the tradeoffs along the way.",
-    date: "2026-01-15",
+    date: "2026-08-2",
     readTime: "4 min read",
     tags: ["Next.js", "React", "Case Study"],
     content: [
@@ -23,7 +23,7 @@ export const blogPosts: BlogPost[] = [
     title: "What Context API, Redux Toolkit and React Query taught me",
     excerpt:
       "Three different tools for three different jobs — reflections from building the Product Catalog project.",
-    date: "2025-11-02",
+    date: "2025-12-18",
     readTime: "3 min read",
     tags: ["React", "State Management"],
     content: [

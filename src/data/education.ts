@@ -6,8 +6,12 @@ export const education: EducationItem[] = [
     org: "American University of Afghanistan (AUAF)",
     period: "2024 — Present · Third year · GPA 3.8",
   },
+  {title: "Next.js Essentials: building modern React Applications",
+    org: "Code to Inspire",
+    period: "May 2026 — Jul 2026",
+  },
   {
-    title: "React from Zero to Real Projects, Next.js",
+    title: "React from Zero to Real Projects",
     org: "Code to Inspire",
     period: "Oct 2025 — May 2026",
     detail: "Covered React and Next.js through real, shipped projects.",
@@ -22,5 +26,7 @@ export const education: EducationItem[] = [
     title: "Graphic Design",
     org: "Code to Inspire",
     period: "Dec 2021 — Aug 2022",
+    detail: "Covered Photoshop Illustrator, and UI UX concepts.",
+ 
   },
 ];
